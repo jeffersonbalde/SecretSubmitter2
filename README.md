@@ -9,7 +9,7 @@
 You manage to reach deeper into the portal. This time, access is heavily guarded. 
 The browser still tries to snack on something... but it seems the guardians have learned new tricks.
 
-🔗 [Access the submission portal here](https://secret-submitter2-7qz3.vercel.app/)
+🔗 [Access the submission portal here](https://secret-submitter2.vercel.app/)
 
 ## 💡 Hint
 

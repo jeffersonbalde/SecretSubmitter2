@@ -23,7 +23,7 @@ const SecretPath = () => {
         boxSizing: "border-box",
       }}
     >
-      <pre>You're close. But think about the key instead.</pre>
+      <pre>You're knocking on the right door. But the key doesn’t fit.</pre>
     </div>
   );
 };

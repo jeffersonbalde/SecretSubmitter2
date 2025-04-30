@@ -6,9 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build && npm run obfuscate",
-    "obfuscate": "javascript-obfuscator dist/assets --output dist/assets",
+    "obfuscate": "javascript-obfuscator dist/assets --output dist/assets --compact true --control-flow-flattening true --string-array true --string-array-encoding base64 --string-array-threshold 1",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview" 
   },
   "dependencies": {
     "js-cookie": "^3.0.5",
